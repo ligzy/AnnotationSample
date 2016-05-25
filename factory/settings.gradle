@@ -1,0 +1,5 @@
+rootProject.name = 'factory'
+include 'annotation'
+include 'processor'
+include 'app'
+
